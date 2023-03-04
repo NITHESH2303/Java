@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch juspay",
+            "request": "launch",
+            "mainClass": "juspay",
+            "projectName": "new_66a640c6"
+        },
+        {
+            "type": "java",
+            "name": "Launch oppe",
+            "request": "launch",
+            "mainClass": "oppe",
+            "projectName": "new_66a640c6"
+        },
+        {
+            "type": "java",
+            "name": "Launch N_ArrTree",
+            "request": "launch",
+            "mainClass": "N_ArrTree",
+            "projectName": "new_66a640c6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "new_66a640c6"
+        },
+        {
+            "type": "java",
             "name": "Launch BoundaryTraversal",
             "request": "launch",
             "mainClass": "BoundaryTraversal",

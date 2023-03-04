@@ -3,6 +3,7 @@ import java.util.*;
 public class Mergesort {
     public static void main(String[] args) {            
         int[] arr = {5,4,3,2,1};
+        Arrays.sort(arr);
         mergesort(arr,0,arr.length);
         System.out.println(Arrays.toString(arr));
         }
